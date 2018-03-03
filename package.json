@@ -1,0 +1,20 @@
+{
+  "name": "sum-large-numbers-string",
+  "version": "1.0.0",
+  "description": "sum large numbers string",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjanrajiv00/sum-large-numbers-string.git"
+  },
+  "author": "rajiv ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjanrajiv00/sum-large-numbers-string/issues"
+  },
+  "homepage": "https://github.com/ranjanrajiv00/sum-large-numbers-string#readme"
+}
